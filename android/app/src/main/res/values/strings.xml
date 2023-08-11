@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">facebook_auth</string>
+<string name="facebook_app_id">828731381587515</string>
+<string name="fb_login_protocol_scheme">fb828731381587515</string>
+<string name="facebook_client_token">8f6013c421d1e10544dd8cb98ce57c55</string>
+</resources>
+
+<!--Livelo-->
+<!--<resources>-->
+<!--<string name="app_name">facebook_auth</string>-->
+<!--<string name="facebook_app_id">793890929193077</string>-->
+<!--<string name="fb_login_protocol_scheme">fb793890929193077</string>-->
+<!--<string name="facebook_client_token">cc48eb225b52a6eb5d0086fb2677e2ac</string>-->
+<!--</resources>-->

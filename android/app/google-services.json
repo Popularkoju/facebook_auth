@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721905376570",
+    "project_id": "fir-1543a",
+    "storage_bucket": "fir-1543a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721905376570:android:916ed7c3a15d277ef68403",
+        "android_client_info": {
+          "package_name": "com.fb.auth.livelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721905376570-r8h1vu8cebjk6muss20fahrcn3lg87bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_quo7hfeyvj_XtPclF1f8u02ZAauRvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721905376570-r8h1vu8cebjk6muss20fahrcn3lg87bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
